@@ -1,0 +1,5 @@
+md5: 5a21d7b3b090a6e2c3b207fdc60d54e0
+outs:
+- cache: true
+  md5: 950978292d6ef58758c6a15f727b8dc7
+  path: loan_formatted_01.csv
